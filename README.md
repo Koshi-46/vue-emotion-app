@@ -1,4 +1,4 @@
-# Vue　Emotioal Contact App
+# Vue Emotioal Contact App
 
 ## 問合せ内容の感情を判定するアプリ
 
